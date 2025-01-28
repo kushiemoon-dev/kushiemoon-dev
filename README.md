@@ -42,6 +42,12 @@
 
 
 <!--START_SECTION:waka-->
+
+```txt
+PHP     4 mins          ████████████████████████▓   98.28 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+```
+
 <!--END_SECTION:waka-->
 
 

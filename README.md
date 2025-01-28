@@ -40,7 +40,9 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushiemoon-dev&theme=dark" alt="paulmargueritte" /></p>
 </details>
 
-
+<details>
+  <summary>🏆 Github Trophies</summary>
+  <br>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2040%20mins-blue)
 
@@ -114,6 +116,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
  Last Updated on 28/01/2025 21:53:57 UTC
 <!--END_SECTION:waka-->
-
+</a> </p>
+</details>
 
 

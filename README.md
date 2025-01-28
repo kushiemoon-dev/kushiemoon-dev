@@ -42,16 +42,81 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2040%20mins-blue)
 
-```all_time
-From: 20 January 2025 - To: 27 January 2025
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-Total Time: 4 mins
+**🐱 My GitHub Data** 
 
-PHP     4 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   98.28 %
-Other   0 secs          -------------------------   01.72 %
+> 📦 55.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 25 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 13 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                304 commits         █████████░░░░░░░░░░░░░░░░   37.72 % 
+🌆 Daytime                423 commits         █████████████░░░░░░░░░░░░   52.48 % 
+🌃 Evening                68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   173 commits         █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+Tuesday                  258 commits         ████████░░░░░░░░░░░░░░░░░   32.01 % 
+Wednesday                90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Thursday                 145 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Friday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Saturday                 45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Sunday                   22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+PHP                      4 mins              █████████████████████████   98.28 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+
+🔥 Editors: 
+VS Code                  4 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+bowling_website          4 mins              █████████████████████████   98.28 % 
+my_project_directory     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+
+💻 Operating System: 
+Windows                  4 mins              █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in PHP** 
+
+```text
+PHP                      29 repos            ███████████░░░░░░░░░░░░░░   43.94 % 
+HTML                     16 repos            ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+CSS                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/kushiemoon-dev/kushiemoon-dev/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/01/2025 21:49:09 UTC
 <!--END_SECTION:waka-->
 
 

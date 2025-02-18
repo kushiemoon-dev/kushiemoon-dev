@@ -45,13 +45,15 @@
   <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 50.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 36 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -86,16 +88,19 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      14 mins             ███████████████████████░░   93.59 % 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+site_web_868             14 mins             ███████████████████████░░   93.59 % 
+site                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -111,7 +116,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2025 18:43:57 UTC
+ Last Updated on 18/02/2025 18:46:01 UTC
 <!--END_SECTION:waka-->
 </a> </p>
 </details>

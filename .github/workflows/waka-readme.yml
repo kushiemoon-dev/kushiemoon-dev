@@ -19,6 +19,6 @@ jobs:
           TARGET_BRANCH: master
           TARGET_PATH: README.md
           COMMITTER_NAME: KushieMoon
-          COMMITTER_EMAIL: paul.margueritte@icloud.com
+          COMMITTER_EMAIL: ${{ secrets.EMAIL }}
           AUTHOR_NAME: Kushie
-          AUTHOR_EMAIL: paul.margueritte@icloud.com
+          AUTHOR_EMAIL:  ${{ secrets.EMAIL }}

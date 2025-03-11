@@ -15,3 +15,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_LOC_CHART: false
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          TARGET_BRANCH: master
+          TARGET_PATH: README.md
+          COMMITTER_NAME: KushieMoon
+          COMMITTER_EMAIL: paul.margueritte@icloud.com
+          AUTHOR_NAME: Kushie
+          AUTHOR_EMAIL: paul.margueritte@icloud.com

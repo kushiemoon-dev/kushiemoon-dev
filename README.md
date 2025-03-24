@@ -2,8 +2,8 @@
 <h3 align="center">A passionate full-stack developer from France</h3>
 
 
-- 🔭 I’m currently working on [A bowling website]([https://kushiemoon-dev.github.io/base_html_868/])
-
+- 🔭 I’m currently working on [A bowling website](https://github.com/kushiemoon-dev/)
+  
 - 🤝 You can find my last project **Write me tips or suggestion**
 
 - 📫 How to reach me **paul.margueritte@icloud.com**

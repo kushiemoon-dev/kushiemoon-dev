@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from France</h3>
 
 
-- 🔭 I’m currently working on [A bowling website](https://github.com/kushiemoon-dev/)
+- 🔭 I’m currently working on [A bowling website]([https://github.com/kushiemoon-dev/](https://kushiemoon-dev.github.io/base_html_868/))
 
 - 🤝 You can find my last project **Write me tips or suggestion**
 

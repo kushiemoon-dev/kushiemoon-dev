@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo22937
-Fork on GitHub7686
 <h1 align="center">Hi 👋, I'm Kushie</h1>
 <h3 align="center">A passionate developer from France</h3>
 

@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **A bowling website**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with **C#**
+- 🤝 I’m looking for help with **Django#**
 
 - 💬 Ask me about **php**
 

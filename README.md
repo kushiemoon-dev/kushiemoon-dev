@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **php**
 
-- 📫 How to reach me **paul.margueritte@icloud.com**
+- 📫 How to reach me **kushie.dev@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

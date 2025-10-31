@@ -92,19 +92,16 @@ Sunday                   39 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      9 mins              ████████████████████████░   96.91 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Assocation_Bowling_Club  9 mins              ████████████████████████░   96.91 % 
-afds                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -120,7 +117,7 @@ Svelte                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2025 18:51:34 UTC
+ Last Updated on 31/10/2025 18:50:43 UTC
 <!--END_SECTION:waka-->
 </a> </p>
 </details>

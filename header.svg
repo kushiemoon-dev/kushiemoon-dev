@@ -1,0 +1,45 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="scanlines" patternUnits="userSpaceOnUse" width="800" height="4">
+      <rect width="800" height="2" fill="rgba(168, 85, 247, 0.03)"/>
+      <rect y="2" width="800" height="2" fill="transparent"/>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="800" height="200" fill="#0d1117"/>
+
+  <g stroke="rgba(124, 58, 237, 0.1)" stroke-width="1">
+    <line x1="0" y1="50" x2="800" y2="50"/>
+    <line x1="0" y1="100" x2="800" y2="100"/>
+    <line x1="0" y1="150" x2="800" y2="150"/>
+    <line x1="200" y1="0" x2="200" y2="200"/>
+    <line x1="400" y1="0" x2="400" y2="200"/>
+    <line x1="600" y1="0" x2="600" y2="200"/>
+  </g>
+
+  <rect width="800" height="200" fill="url(#scanlines)"/>
+
+  <text x="400" y="90" font-family="monospace" font-size="56" font-weight="bold" fill="#a855f7" text-anchor="middle" filter="url(#glow)">
+    KUSHIE
+  </text>
+
+  <text x="400" y="130" font-family="monospace" font-size="14" fill="#9ca3af" text-anchor="middle" letter-spacing="4">
+    DESKTOP APPS // WEB // OPEN SOURCE
+  </text>
+
+  <path d="M 10 10 L 10 40 M 10 10 L 40 10" stroke="#a855f7" stroke-width="2" fill="none"/>
+  <path d="M 790 10 L 790 40 M 790 10 L 760 10" stroke="#a855f7" stroke-width="2" fill="none"/>
+  <path d="M 10 190 L 10 160 M 10 190 L 40 190" stroke="#a855f7" stroke-width="2" fill="none"/>
+  <path d="M 790 190 L 790 160 M 790 190 L 760 190" stroke="#a855f7" stroke-width="2" fill="none"/>
+
+  <circle cx="750" cy="25" r="4" fill="#4ade80">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>

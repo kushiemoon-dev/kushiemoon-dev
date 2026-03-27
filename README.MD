@@ -31,6 +31,24 @@
 ```
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=a855f7&center=true&vCenter=true&width=500&lines=native+app+builder+%2F%2F+desktop+%26+mobile;lossless+audio+enjoyer+%2F%2F+FLACidal;VJ+%26+visuals+%2F%2F+OpenDrop-VJ;homelab+tinkerer+%2F%2F+self-hosted+everything;open+source+%26+always+building" alt="Typing animation"/>
+
+<br/><br/>
+
+```
+╭─────────────────────────────────────────────────╮
+│  > currently_building                            │
+│                                                  │
+│  [▶] FLACidal           — lossless desktop app  │
+│  [▶] FLACidal Mobile    — iOS/Android port      │
+│  [▶] OpenDrop-VJ        — Rust/Tauri VJ app     │
+│  [▶] PluralHaven        — private · WIP         │
+│  [▶] ScamStop           — private · WIP         │
+╰─────────────────────────────────────────────────╯
+```
+
+<br/>
 </div>
 
 ## `// TECH_STACK`
@@ -88,11 +106,11 @@
 
 ## `// FEATURED_PROJECTS`
 
-<table width="100%">
+<div align="center"><table width="100%">
 <tr>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/♫_FLACIDAL-7c3aed?style=for-the-badge&logoColor=white" alt="FLACidal"/>
-<br/><sub>Tidal → FLAC lossless<br/>HI_RES 24-bit · Spotify matching</sub>
+<br/><sub>Tidal → FLAC lossless<br/>HI_RES 24-bit · lossless pipeline</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/Wails-0d1117?style=flat-square&logo=webassembly&logoColor=a855f7"/>
@@ -100,7 +118,7 @@
 <br/>
 <a href="https://github.com/kushiemoon-dev/FLACidal"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
-<td align="center">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/♫_YOUFLAC-a855f7?style=for-the-badge&logoColor=white" alt="YouFlac"/>
 <br/><sub>YouTube 4K video<br/>Tidal · Qobuz · Amazon → MKV</sub>
 <br/><br/>
@@ -110,7 +128,7 @@
 <br/>
 <a href="https://github.com/kushiemoon-dev/YouFLAC"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
-<td align="center">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/▶_OPENDROP--VJ-7c3aed?style=for-the-badge&logoColor=white" alt="OpenDrop-VJ"/>
 <br/><sub>Multi-deck VJ app<br/>NestDrop alt · Linux/Win</sub>
 <br/><br/>
@@ -122,7 +140,7 @@
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/🦋_CHRYSALIDE-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="Chrysalide"/>
 <br/><sub>Trans health tracker<br/>100% local · IndexedDB</sub>
 <br/><br/>
@@ -132,7 +150,7 @@
 <br/>
 <a href="https://github.com/kushiemoon-dev/chrysalide"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
-<td align="center">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/🎳_BC_BAYEUX-a855f7?style=for-the-badge&logoColor=white" alt="Bowling Club"/>
 <br/><sub>Club management app<br/>Events · Scores · Stats</sub>
 <br/><br/>
@@ -142,7 +160,7 @@
 <br/>
 <sub>Client project · Private repo</sub>
 </td>
-<td align="center">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/◈_KUSHIE.DEV-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="Portfolio"/>
 <br/><sub>Portfolio · i18n FR/EN/DE<br/>Lighthouse 90+</sub>
 <br/><br/>
@@ -151,12 +169,17 @@
 <img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=a855f7"/>
 <br/>
 <a href="https://kushie.dev"><img src="https://img.shields.io/badge/→_Live-a855f7?style=flat-square&logo=firefox&logoColor=white"/></a>
-<a href="https://github.com/kushiemoon-dev/kushie.dev"><img src="https://img.shields.io/badge/→_Repo-7c3aed?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 </tr>
-<tr><td colspan="3"><br/><h2><code>// OTHER_PROJECTS</code></h2></td></tr>
+</table></div>
+
+<br/>
+
+## `// OTHER_PROJECTS`
+
+<div align="center"><table width="100%">
 <tr>
-<td align="center">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/PURIFY--TUYA-7c3aed?style=for-the-badge&logoColor=white" alt="purify-tuya"/>
 <br/><sub>Local-first PWA<br/>for Tuya dehumidifiers</sub>
 <br/><br/>
@@ -165,7 +188,7 @@
 <br/>
 <a href="https://github.com/kushiemoon-dev/purify-tuya"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
-<td align="center">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/SATISFACTORY--BRIDGE-a855f7?style=for-the-badge&logoColor=white" alt="satisfactory-bridge"/>
 <br/><sub>HTTP bridge<br/>OpenClaw AI ↔ Satisfactory</sub>
 <br/><br/>
@@ -175,7 +198,7 @@
 <br/>
 <a href="https://github.com/kushiemoon-dev/satisfactory-bridge"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
-<td align="center">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/VRCHAT--OSC--BRIDGE-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="vrchat-osc-bridge"/>
 <br/><sub>HTTP→OSC bridge<br/>for VRChat avatars</sub>
 <br/><br/>
@@ -187,7 +210,7 @@
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/AFDS_MONDEVILLE-7c3aed?style=for-the-badge&logoColor=white" alt="AFDS"/>
 <br/><sub>Site web associatif<br/>Au fil des saisons</sub>
 <br/><br/>
@@ -197,24 +220,54 @@
 <br/>
 <sub>Private repo</sub>
 </td>
-<td align="center">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/OPENCLAW_LEXIS-a855f7?style=for-the-badge&logoColor=white" alt="OpenClaw Lexis"/>
-<br/><sub>Personal AI assistant<br/>19+ skills · client tracking · memory</sub>
+<br/><sub>Personal AI assistant & SOC operator<br/>Homelab security · self-hosted</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=a855f7"/>
 <br/>
-<sub>Private repo</sub>
+<sub>Self-hosted · Private repo</sub>
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/COBBLEMON_MODS-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="Cobblemon Mods"/>
-<br/><sub>9 Fabric server mods<br/>safari · tournament · auction<br/>dex · missions · loto · shop · gym · league</sub>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/PRIVATE_COLLAB-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="Private Collab"/>
+<br/><sub>Game server collaboration<br/>Fabric mods · private repos</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=a855f7"/>
 <br/>
 <sub>Private repos</sub>
 </td>
 </tr>
-</table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/MISSION_CONTROL-7c3aed?style=for-the-badge&logoColor=white" alt="Mission Control"/>
+<br/><sub>Agent orchestration dashboard<br/>self-hosted · Docker</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=a855f7"/>
+<br/>
+<sub>Self-hosted</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/SCAMSTOP-a855f7?style=for-the-badge&logoColor=white" alt="ScamStop"/>
+<br/><sub>Mobile app · blocks scam calls<br/>WIP</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Mobile-0d1117?style=flat-square&logo=android&logoColor=a855f7"/>
+<br/>
+<sub>Private repo · WIP</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/POKECHILL_IDLE-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="Pokechill Idle"/>
+<br/><sub>Pokémon idle game<br/>WIP</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/SvelteKit-0d1117?style=flat-square&logo=svelte&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=a855f7"/>
+<br/>
+<sub>Private repo · WIP</sub>
+</td>
+</tr>
+</table></div>
 
 <br/>
 
@@ -223,12 +276,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/kushiemoon-dev/kushiemoon-dev/output/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/kushiemoon-dev/kushiemoon-dev/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/kushiemoon-dev/kushiemoon-dev/output/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language"/>
 
 <br/><br/>
 
@@ -261,10 +308,6 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/iPod_Classic_5.5G-7c3aed?style=for-the-badge&logo=apple&logoColor=white"/>
-<br/><sub>Rockbox · 256GB flash<br/>2000mAh · U2 edition</sub>
-</td>
-<td align="center">
 <img src="https://img.shields.io/badge/Nintendo_3DS-a855f7?style=for-the-badge&logo=nintendo3ds&logoColor=white"/>
 <br/><sub>Luma3DS CFW</sub>
 </td>
@@ -272,12 +315,12 @@
 <img src="https://img.shields.io/badge/DS_Lite-c4b5fd?style=for-the-badge&logo=nintendo&logoColor=0d1117"/>
 <br/><sub>R4 Gold</sub>
 </td>
-</tr>
-<tr>
 <td align="center">
 <img src="https://img.shields.io/badge/PlayStation_1-7c3aed?style=for-the-badge&logo=playstation&logoColor=white"/>
 <br/><sub>OG Sony</sub>
 </td>
+</tr>
+<tr>
 <td align="center">
 <img src="https://img.shields.io/badge/Nintendo_64-a855f7?style=for-the-badge&logo=nintendo&logoColor=white"/>
 <br/><sub>64-bit era</sub>
@@ -285,6 +328,10 @@
 <td align="center">
 <img src="https://img.shields.io/badge/Wii-c4b5fd?style=for-the-badge&logo=wii&logoColor=0d1117"/>
 <br/><sub>Modded · Homebrew</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Quest_2-7c3aed?style=for-the-badge&logo=meta&logoColor=white"/>
+<br/><sub>VR · sideloaded</sub>
 </td>
 </tr>
 </table>
@@ -294,11 +341,15 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Technics_HiFi-7c3aed?style=for-the-badge&logo=sony&logoColor=white"/>
+<img src="https://img.shields.io/badge/iPod_Classic_5.5G-7c3aed?style=for-the-badge&logo=apple&logoColor=white"/>
+<br/><sub>Rockbox · 256GB flash<br/>2000mAh · U2 edition</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Technics_HiFi-a855f7?style=for-the-badge&logo=sony&logoColor=white"/>
 <br/><sub>Vintage sound system</sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/CRT_80cm-a855f7?style=for-the-badge&logo=samsung&logoColor=white"/>
+<img src="https://img.shields.io/badge/CRT_80cm-c4b5fd?style=for-the-badge&logo=samsung&logoColor=0d1117"/>
 <br/><sub>Trans Continent<br/>The real display</sub>
 </td>
 </tr>
@@ -310,7 +361,11 @@
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/Proxmox_Cluster-7c3aed?style=for-the-badge&logo=proxmox&logoColor=white"/>
-<br/><sub>Triple node · 2005/2010 hardware<br/>Old machines, new tricks</sub>
+<br/><sub>Multi-node · 2005/2010 hardware<br/>Old machines, new tricks</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Mission_Control-a855f7?style=for-the-badge&logo=docker&logoColor=white"/>
+<br/><sub>Self-hosted agent orchestration<br/>always watching</sub>
 </td>
 </tr>
 </table>
@@ -375,6 +430,6 @@
 ╚════════════════════════════════════════════════════╝
 ```
 
-<sub>Last updated: February 2026 · Made with insomnia and mass amounts of tea</sub>
+<sub>Last updated: March 2026 · Made with insomnia and mass amounts of tea</sub>
 
 </div>

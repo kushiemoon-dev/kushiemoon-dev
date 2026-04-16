@@ -42,9 +42,10 @@
 │                                                  │
 │  [▶] FLACidal           — lossless desktop app  │
 │  [▶] FLACidal Mobile    — iOS/Android port      │
+│  [▶] YouFLAC Mobile     — iOS/Android port      │
 │  [▶] OpenDrop-VJ        — Rust/Tauri VJ app     │
-│  [▶] PluralHaven        — private · WIP         │
 │  [▶] ScamStop           — private · WIP         │
+│  [▶] silphos            — PokeMMO companion     │
 ╰─────────────────────────────────────────────────╯
 ```
 
@@ -69,6 +70,7 @@
 <img src="https://img.shields.io/badge/Symfony_7-0d1117?style=flat-square&logo=symfony&logoColor=a855f7" alt="Symfony"/>
 <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=a855f7" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=a855f7" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Hono-0d1117?style=flat-square&logo=hono&logoColor=a855f7" alt="Hono"/>
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=a855f7" alt="MySQL"/>
 </p>
 
@@ -88,11 +90,12 @@
 </td>
 <td width="33%" valign="top">
 
-### <img src="https://img.shields.io/badge/desktop_&_infra-c4b5fd?style=flat-square&logoColor=0d1117" height="20"/>
+### <img src="https://img.shields.io/badge/desktop,_mobile_&_infra-c4b5fd?style=flat-square&logoColor=0d1117" height="20"/>
 
 <p>
 <img src="https://img.shields.io/badge/Wails-0d1117?style=flat-square&logo=go&logoColor=a855f7" alt="Wails"/>
 <img src="https://img.shields.io/badge/Tauri_2-0d1117?style=flat-square&logo=tauri&logoColor=a855f7" alt="Tauri"/>
+<img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=a855f7" alt="Flutter"/>
 <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=a855f7" alt="Docker"/>
 <img src="https://img.shields.io/badge/Proxmox-0d1117?style=flat-square&logo=proxmox&logoColor=a855f7" alt="Proxmox"/>
 <img src="https://img.shields.io/badge/Arch_Linux-0d1117?style=flat-square&logo=archlinux&logoColor=a855f7" alt="Arch"/>
@@ -189,24 +192,22 @@
 <a href="https://github.com/kushiemoon-dev/purify-tuya"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/SATISFACTORY--BRIDGE-a855f7?style=for-the-badge&logoColor=white" alt="satisfactory-bridge"/>
-<br/><sub>HTTP bridge<br/>OpenClaw AI ↔ Satisfactory</sub>
+<img src="https://img.shields.io/badge/♫_FLACIDAL_MOBILE-a855f7?style=for-the-badge&logoColor=white" alt="FLACidal Mobile"/>
+<br/><sub>FLACidal on iOS & Android<br/>lossless · offline sync</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/Lua-0d1117?style=flat-square&logo=lua&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=a855f7"/>
 <br/>
-<a href="https://github.com/kushiemoon-dev/satisfactory-bridge"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/kushiemoon-dev/FLACidal"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/VRCHAT--OSC--BRIDGE-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="vrchat-osc-bridge"/>
-<br/><sub>HTTP→OSC bridge<br/>for VRChat avatars</sub>
+<img src="https://img.shields.io/badge/♫_YOUFLAC_MOBILE-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="YouFLAC Mobile"/>
+<br/><sub>YouFLAC on iOS & Android<br/>private · WIP</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/Whisper-0d1117?style=flat-square&logo=openai&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=a855f7"/>
 <br/>
-<a href="https://github.com/kushiemoon-dev/vrchat-osc-bridge"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
+<sub>Private repo · WIP</sub>
 </td>
 </tr>
 <tr>
@@ -221,32 +222,38 @@
 <sub>Private repo</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/OPENCLAW_LEXIS-a855f7?style=for-the-badge&logoColor=white" alt="OpenClaw Lexis"/>
-<br/><sub>Personal AI assistant & SOC operator<br/>Homelab security · self-hosted</sub>
+<img src="https://img.shields.io/badge/◇_PLURALHAVEN-a855f7?style=for-the-badge&logoColor=white" alt="PluralHaven"/>
+<br/><sub>Social platform · private<br/>WIP</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Hono-0d1117?style=flat-square&logo=hono&logoColor=a855f7"/>
 <br/>
-<sub>Self-hosted · Private repo</sub>
+<sub>Private repo · WIP</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/PRIVATE_COLLAB-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="Private Collab"/>
-<br/><sub>Game server collaboration<br/>Fabric mods · private repos</sub>
+<img src="https://img.shields.io/badge/🍡_MOCHI--BOT-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="Mochi Bot"/>
+<br/><sub>Discord gacha & economy bot<br/>community · private</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/discord.js-0d1117?style=flat-square&logo=discord&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=a855f7"/>
 <br/>
-<sub>Private repos</sub>
+<sub>Private repo</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/MISSION_CONTROL-7c3aed?style=for-the-badge&logoColor=white" alt="Mission Control"/>
-<br/><sub>Agent orchestration dashboard<br/>self-hosted · Docker</sub>
+<img src="https://img.shields.io/badge/GEO_FRANCE-7c3aed?style=for-the-badge&logoColor=white" alt="geo-france"/>
+<br/><sub>Geological map of France<br/>BD Charm-50 · 14 regions</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/MapLibre_GL-0d1117?style=flat-square&logo=maplibre&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/PMTiles-0d1117?style=flat-square&logoColor=a855f7"/>
 <br/>
-<sub>Self-hosted</sub>
+<a href="https://github.com/kushiemoon-dev/geo-france"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://geo-france.kushie.dev"><img src="https://img.shields.io/badge/→_Live-a855f7?style=flat-square&logo=firefox&logoColor=white"/></a>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/SCAMSTOP-a855f7?style=for-the-badge&logoColor=white" alt="ScamStop"/>
@@ -257,14 +264,14 @@
 <sub>Private repo · WIP</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/POKECHILL_IDLE-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="Pokechill Idle"/>
-<br/><sub>Pokémon idle game<br/>WIP</sub>
+<img src="https://img.shields.io/badge/◈_SILPHOS-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="silphos"/>
+<br/><sub>PokeMMO companion<br/>Pokédex · GTL · Tools</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/SvelteKit-0d1117?style=flat-square&logo=svelte&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Hono-0d1117?style=flat-square&logo=hono&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=a855f7"/>
 <br/>
-<sub>Private repo · WIP</sub>
+<sub>Private repo</sub>
 </td>
 </tr>
 </table></div>
@@ -274,10 +281,6 @@
 ## `// STATS`
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/kushiemoon-dev/kushiemoon-dev/output/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details"/>
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=kushiemoon-dev&background=0d1117&border=7c3aed&stroke=7c3aed&ring=a855f7&fire=a855f7&currStreakNum=9ca3af&sideNums=9ca3af&currStreakLabel=a855f7&sideLabels=9ca3af&dates=9ca3af" alt="GitHub Streak"/>
 
@@ -430,6 +433,6 @@
 ╚════════════════════════════════════════════════════╝
 ```
 
-<sub>Last updated: March 2026 · Made with insomnia and mass amounts of tea</sub>
+<sub>Last updated: April 2026 · Made with insomnia and mass amounts of tea</sub>
 
 </div>

@@ -223,7 +223,7 @@
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/◇_PLURALHAVEN-a855f7?style=for-the-badge&logoColor=white" alt="PluralHaven"/>
-<br/><sub>Social platform · private<br/>WIP</sub>
+<br/><sub>Tool for plural systems · private<br/>WIP</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=a855f7"/>

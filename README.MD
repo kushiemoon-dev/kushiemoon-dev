@@ -34,6 +34,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=a855f7&center=true&vCenter=true&width=500&lines=native+app+builder+%2F%2F+desktop+%26+mobile;lossless+audio+enjoyer+%2F%2F+FLACidal;VJ+%26+visuals+%2F%2F+OpenDrop-VJ;homelab+tinkerer+%2F%2F+self-hosted+everything;open+source+%26+always+building" alt="Typing animation"/>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kushiemoon-dev&style=flat-square&color=7c3aed&label=profile+views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/kushiemoon-dev?style=flat-square&color=a855f7&labelColor=0d1117&logo=github&label=followers"/>
+
+<br/>
+
+<sub><a href="#-tech_stack">tech</a> · <a href="#-featured_projects">projects</a> · <a href="#-retro_corner">retro</a> · <a href="#-connect">connect</a></sub>
+
 <br/><br/>
 
 ```
@@ -44,7 +54,7 @@
 │  [▶] FLACidal Mobile    — iOS/Android port      │
 │  [▶] YouFLAC Mobile     — iOS/Android port      │
 │  [▶] OpenDrop-VJ        — Rust/Tauri VJ app     │
-│  [▶] ScamStop           — private · WIP         │
+│  [▶] TCG Deck Builder   — Pokémon · private     │
 │  [▶] silphos            — PokeMMO companion     │
 ╰─────────────────────────────────────────────────╯
 ```
@@ -72,6 +82,11 @@
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=a855f7" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Hono-0d1117?style=flat-square&logo=hono&logoColor=a855f7" alt="Hono"/>
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=a855f7" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=a855f7" alt="Prisma"/>
+<img src="https://img.shields.io/badge/Drizzle-0d1117?style=flat-square&logo=drizzle&logoColor=a855f7" alt="Drizzle"/>
+<img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=a855f7" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Lua-0d1117?style=flat-square&logo=lua&logoColor=a855f7" alt="Lua"/>
+<img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=a855f7" alt="C"/>
 </p>
 
 </td>
@@ -85,6 +100,7 @@
 <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=a855f7" alt="Next.js"/>
 <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=a855f7" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=a855f7" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=a855f7" alt="Vite"/>
 </p>
 
 </td>
@@ -96,6 +112,7 @@
 <img src="https://img.shields.io/badge/Wails-0d1117?style=flat-square&logo=go&logoColor=a855f7" alt="Wails"/>
 <img src="https://img.shields.io/badge/Tauri_2-0d1117?style=flat-square&logo=tauri&logoColor=a855f7" alt="Tauri"/>
 <img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=a855f7" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=a855f7" alt="Dart"/>
 <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=a855f7" alt="Docker"/>
 <img src="https://img.shields.io/badge/Proxmox-0d1117?style=flat-square&logo=proxmox&logoColor=a855f7" alt="Proxmox"/>
 <img src="https://img.shields.io/badge/Arch_Linux-0d1117?style=flat-square&logo=archlinux&logoColor=a855f7" alt="Arch"/>
@@ -286,6 +303,10 @@
 
 <br/><br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushiemoon-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=9ca3af&icon_color=7c3aed&langs_count=10" alt="Top Languages"/>
+
+<br/><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushiemoon-dev&bg_color=0d1117&color=9ca3af&title_color=a855f7&line=a855f7&point=7c3aed&area=true&area_color=7c3aed&border_color=7c3aed&radius=6" alt="Activity Graph"/>
 
 <br/><br/>
@@ -355,6 +376,10 @@
 <img src="https://img.shields.io/badge/CRT_80cm-c4b5fd?style=for-the-badge&logo=samsung&logoColor=0d1117"/>
 <br/><sub>Trans Continent<br/>The real display</sub>
 </td>
+<td align="center">
+<img src="https://img.shields.io/badge/Olympus_FE--230-7c3aed?style=for-the-badge&logoColor=white"/>
+<br/><sub>Compact 7.1MP · 2007<br/>3× zoom · point & shoot</sub>
+</td>
 </tr>
 </table>
 
@@ -366,12 +391,12 @@
 <img src="https://img.shields.io/badge/Proxmox_Cluster-7c3aed?style=for-the-badge&logo=proxmox&logoColor=white"/>
 <br/><sub>Multi-node · 2005/2010 hardware<br/>Old machines, new tricks</sub>
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/Mission_Control-a855f7?style=for-the-badge&logo=docker&logoColor=white"/>
-<br/><sub>Self-hosted agent orchestration<br/>always watching</sub>
-</td>
 </tr>
 </table>
+
+### `now_playing/`
+
+<img src="https://lastfm-recently-played.vercel.app/api?user=kushiemoon&count=3" alt="now playing on Last.fm"/>
 
 ### `philosophy/`
 
@@ -433,6 +458,6 @@
 ╚════════════════════════════════════════════════════╝
 ```
 
-<sub>Last updated: April 2026 · Made with insomnia and mass amounts of tea</sub>
+<sub>Last updated: June 2026 · Made with insomnia and mass amounts of tea</sub>
 
 </div>

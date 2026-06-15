@@ -53,9 +53,7 @@
 │  [▶] FLACidal           — lossless desktop app  │
 │  [▶] FLACidal Mobile    — iOS/Android port      │
 │  [▶] YouFLAC Mobile     — iOS/Android port      │
-│  [▶] OpenDrop-VJ        — Rust/Tauri VJ app     │
-│  [▶] TCG Deck Builder   — Pokémon · private     │
-│  [▶] silphos            — PokeMMO companion     │
+│  [▶] OpenDrop-VJ        — SvelteKit · Electron  │
 ╰─────────────────────────────────────────────────╯
 ```
 
@@ -150,11 +148,11 @@
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/▶_OPENDROP--VJ-7c3aed?style=for-the-badge&logoColor=white" alt="OpenDrop-VJ"/>
-<br/><sub>Multi-deck VJ app<br/>NestDrop alt · Linux/Win</sub>
+<br/><sub>Multi-deck VJ app<br/>NestDrop alt · Linux/Win/Mac</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/Tauri_2-0d1117?style=flat-square&logo=tauri&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/Svelte_5-0d1117?style=flat-square&logo=svelte&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/SvelteKit-0d1117?style=flat-square&logo=svelte&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Electron-0d1117?style=flat-square&logo=electron&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Butterchurn-0d1117?style=flat-square&logoColor=a855f7"/>
 <br/>
 <a href="https://github.com/kushiemoon-dev/OpenDrop-VJ"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
@@ -249,14 +247,14 @@
 <sub>Private repo · WIP</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🍡_MOCHI--BOT-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="Mochi Bot"/>
-<br/><sub>Discord gacha & economy bot<br/>community · private</sub>
+<img src="https://img.shields.io/badge/🎙_VOICE--LAB-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="voice-lab"/>
+<br/><sub>Voice training · trans & non-binary<br/>100% local · EN/FR</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/discord.js-0d1117?style=flat-square&logo=discord&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/PWA-0d1117?style=flat-square&logo=pwa&logoColor=a855f7"/>
 <br/>
-<sub>Private repo</sub>
+<a href="https://github.com/kushiemoon-dev/voice-lab"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 </tr>
 <tr>
@@ -271,24 +269,6 @@
 <a href="https://github.com/kushiemoon-dev/geo-france"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
 &nbsp;
 <a href="https://geo-france.kushie.dev"><img src="https://img.shields.io/badge/→_Live-a855f7?style=flat-square&logo=firefox&logoColor=white"/></a>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/SCAMSTOP-a855f7?style=for-the-badge&logoColor=white" alt="ScamStop"/>
-<br/><sub>Mobile app · blocks scam calls<br/>WIP</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Mobile-0d1117?style=flat-square&logo=android&logoColor=a855f7"/>
-<br/>
-<sub>Private repo · WIP</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/◈_SILPHOS-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="silphos"/>
-<br/><sub>PokeMMO companion<br/>Pokédex · GTL · Tools</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/Hono-0d1117?style=flat-square&logo=hono&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=a855f7"/>
-<br/>
-<sub>Private repo</sub>
 </td>
 </tr>
 </table></div>
@@ -396,7 +376,7 @@
 
 ### `now_playing/`
 
-<img src="https://lastfm-recently-played.vercel.app/api?user=kushiemoon&count=3" alt="now playing on Last.fm"/>
+<a href="https://tidal.com/playlist/c3e58adb-ed7a-43dd-917c-f65657320f10"><img src="https://img.shields.io/badge/city_pop_playlist-0d1117?style=for-the-badge&logo=tidal&logoColor=a855f7" alt="city pop playlist on Tidal"/></a>
 
 ### `philosophy/`
 

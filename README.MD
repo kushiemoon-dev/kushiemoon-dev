@@ -36,6 +36,10 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="60"/>
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=kushiemoon-dev&style=flat-square&color=7c3aed&label=profile+views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/kushiemoon-dev?style=flat-square&color=a855f7&labelColor=0d1117&logo=github&label=followers"/>
@@ -72,19 +76,11 @@
 <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=a855f7" alt="Go"/>
 <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=a855f7" alt="Rust"/>
 <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=a855f7" alt="Python"/>
-<img src="https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=a855f7" alt="Kotlin"/>
-<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=a855f7" alt="Java"/>
 <img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=a855f7" alt="PHP"/>
 <img src="https://img.shields.io/badge/Symfony_7-0d1117?style=flat-square&logo=symfony&logoColor=a855f7" alt="Symfony"/>
 <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=a855f7" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=a855f7" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Hono-0d1117?style=flat-square&logo=hono&logoColor=a855f7" alt="Hono"/>
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=a855f7" alt="MySQL"/>
 <img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=a855f7" alt="Prisma"/>
-<img src="https://img.shields.io/badge/Drizzle-0d1117?style=flat-square&logo=drizzle&logoColor=a855f7" alt="Drizzle"/>
-<img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=a855f7" alt="SQLite"/>
-<img src="https://img.shields.io/badge/Lua-0d1117?style=flat-square&logo=lua&logoColor=a855f7" alt="Lua"/>
-<img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=a855f7" alt="C"/>
 </p>
 
 </td>
@@ -207,46 +203,6 @@
 <a href="https://github.com/kushiemoon-dev/purify-tuya"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/♫_FLACIDAL_MOBILE-a855f7?style=for-the-badge&logoColor=white" alt="FLACidal Mobile"/>
-<br/><sub>FLACidal on iOS & Android<br/>lossless · offline sync</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=a855f7"/>
-<br/>
-<a href="https://github.com/kushiemoon-dev/FLACidal"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/♫_YOUFLAC_MOBILE-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="YouFLAC Mobile"/>
-<br/><sub>YouFLAC on iOS & Android<br/>private · WIP</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=a855f7"/>
-<br/>
-<sub>Private repo · WIP</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/AFDS_MONDEVILLE-7c3aed?style=for-the-badge&logoColor=white" alt="AFDS"/>
-<br/><sub>Site web associatif<br/>Au fil des saisons</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/SvelteKit-0d1117?style=flat-square&logo=svelte&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=a855f7"/>
-<br/>
-<sub>Private repo</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/◇_PLURALHAVEN-a855f7?style=for-the-badge&logoColor=white" alt="PluralHaven"/>
-<br/><sub>Tool for plural systems · private<br/>WIP</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/Hono-0d1117?style=flat-square&logo=hono&logoColor=a855f7"/>
-<br/>
-<sub>Private repo · WIP</sub>
-</td>
-<td align="center" width="33%">
 <img src="https://img.shields.io/badge/🎙_VOICE--LAB-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="voice-lab"/>
 <br/><sub>Voice training · trans & non-binary<br/>100% local · EN/FR</sub>
 <br/><br/>
@@ -256,8 +212,6 @@
 <br/>
 <a href="https://github.com/kushiemoon-dev/voice-lab"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
-</tr>
-<tr>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/GEO_FRANCE-7c3aed?style=for-the-badge&logoColor=white" alt="geo-france"/>
 <br/><sub>Geological map of France<br/>BD Charm-50 · 14 regions</sub>
@@ -273,21 +227,19 @@
 </tr>
 </table></div>
 
+<sub>Also cooking (private/WIP): FLACidal Mobile · YouFLAC Mobile · AFDS Mondeville · PluralHaven</sub>
+
 <br/>
 
 ## `// STATS`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=kushiemoon-dev&background=0d1117&border=7c3aed&stroke=7c3aed&ring=a855f7&fire=a855f7&currStreakNum=9ca3af&sideNums=9ca3af&currStreakLabel=a855f7&sideLabels=9ca3af&dates=9ca3af" alt="GitHub Streak"/>
+<img src="https://card.kushie.dev/api/card?username=kushiemoon-dev&type=ghost" alt="GitHub Stats Card" width="480"/>
 
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushiemoon-dev&layout=compact&bg_color=0d1117&title_color=a855f7&text_color=9ca3af&border_color=7c3aed&langs_count=10&cache_seconds=14400" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushiemoon-dev&bg_color=0d1117&color=9ca3af&title_color=a855f7&line=a855f7&point=7c3aed&area=true&area_color=7c3aed&border_color=7c3aed&radius=6" alt="Activity Graph"/>
 
 <br/><br/>
 
@@ -306,6 +258,35 @@
 │          ~ vintage tech collector ~           │
 ╰──────────────────────────────────────────────╯
 ```
+
+### `play_pokemon/`
+
+<sub>self-hosted, live, one shared save state for everyone who visits</sub>
+
+<br/>
+
+<img src="https://pokemon.kushie.dev/game" alt="Playable Pokemon"/>
+
+<br/>
+
+<table>
+<tr>
+<td></td>
+<td><a href="https://pokemon.kushie.dev/input/UP">⬆️</a></td>
+<td></td>
+<td><a href="https://pokemon.kushie.dev/input/B">🅱️</a></td>
+<td><a href="https://pokemon.kushie.dev/input/A">🅰️</a></td>
+</tr>
+<tr>
+<td><a href="https://pokemon.kushie.dev/input/LEFT">⬅️</a></td>
+<td><a href="https://pokemon.kushie.dev/input/DOWN">⬇️</a></td>
+<td><a href="https://pokemon.kushie.dev/input/RIGHT">➡️</a></td>
+<td><a href="https://pokemon.kushie.dev/input/START">⏺️</a></td>
+<td><a href="https://pokemon.kushie.dev/input/SELECT">⏏️</a></td>
+</tr>
+</table>
+
+<sub>Choose your game: <a href="https://pokemon.kushie.dev/select/red">Red</a> · <a href="https://pokemon.kushie.dev/select/blue">Blue</a> · <a href="https://pokemon.kushie.dev/select/gold">Gold</a> · <a href="https://pokemon.kushie.dev/select/silver">Silver</a></sub>
 
 ### `consoles/`
 

@@ -151,6 +151,8 @@
 <img src="https://img.shields.io/badge/Butterchurn-0d1117?style=flat-square&logoColor=a855f7"/>
 <br/>
 <a href="https://github.com/kushiemoon-dev/OpenDrop-VJ"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://opendrop.kushie.dev"><img src="https://img.shields.io/badge/→_Live-a855f7?style=flat-square&logo=firefox&logoColor=white"/></a>
 </td>
 </tr>
 <tr>
@@ -163,6 +165,8 @@
 <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=a855f7"/>
 <br/>
 <a href="https://github.com/kushiemoon-dev/chrysalide"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://chrysalide.kushie.dev"><img src="https://img.shields.io/badge/→_Live-a855f7?style=flat-square&logo=firefox&logoColor=white"/></a>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/🎳_BC_BAYEUX-a855f7?style=for-the-badge&logoColor=white" alt="Bowling Club"/>
@@ -211,6 +215,8 @@
 <img src="https://img.shields.io/badge/PWA-0d1117?style=flat-square&logo=pwa&logoColor=a855f7"/>
 <br/>
 <a href="https://github.com/kushiemoon-dev/voice-lab"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://voice-lab.kushie.dev"><img src="https://img.shields.io/badge/→_Live-a855f7?style=flat-square&logo=firefox&logoColor=white"/></a>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/GEO_FRANCE-7c3aed?style=for-the-badge&logoColor=white" alt="geo-france"/>
@@ -261,7 +267,7 @@
 
 ### `play_pokemon/`
 
-<sub>self-hosted, live, one shared save state for everyone who visits</sub>
+<sub>self-hosted, live, one shared save state for everyone who visits — click the buttons below (no keyboard), each click advances the game a few seconds</sub>
 
 <br/>
 

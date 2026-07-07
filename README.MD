@@ -233,17 +233,13 @@
 </tr>
 </table></div>
 
-<sub>Also cooking (private/WIP): FLACidal Mobile · YouFLAC Mobile · AFDS Mondeville · PluralHaven</sub>
+<sub>Public: <a href="https://github.com/kushiemoon-dev/FLACidal-Mobile">FLACidal Mobile</a> (iOS/Android port) &nbsp;·&nbsp; Also cooking (private/WIP): YouFLAC Mobile · PluralHaven &nbsp;·&nbsp; Client project (private repo): AFDS Mondeville</sub>
 
 <br/>
 
 ## `// STATS`
 
 <div align="center">
-
-<img src="https://card.kushie.dev/api/card?username=kushiemoon-dev&type=ghost" alt="GitHub Stats Card" width="480"/>
-
-<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushiemoon-dev&layout=compact&bg_color=0d1117&title_color=a855f7&text_color=9ca3af&border_color=7c3aed&langs_count=10&cache_seconds=14400" alt="Top Languages"/>
 

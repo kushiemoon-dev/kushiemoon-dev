@@ -19,12 +19,13 @@
 ```
 ┌──────────────────────────────────────────────────┐
 │                                                  │
-│  > Full-stack dev with a weakness                │
-│    for native apps, lossless audio,              │
-│    and anything with a CRT.                      │
+│  > Full-stack developer — native apps,           │
+│    lossless audio tooling, self-hosted           │
+│    infra. Still runs a CRT unironically.         │
 │                                                  │
-│  Location: France                                │
-│  Status: Open to interesting projects            │
+│  Location: FR / DE                               │
+│  Status:   Open to work // full-stack & desktop  │
+│  Learning: German (DE)                           │
 │  Pronouns: she/her                               │
 │                                                  │
 └──────────────────────────────────────────────────┘
@@ -32,7 +33,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=a855f7&center=true&vCenter=true&width=500&lines=native+app+builder+%2F%2F+desktop+%26+mobile;lossless+audio+enjoyer+%2F%2F+FLACidal;VJ+%26+visuals+%2F%2F+OpenDrop-VJ;homelab+tinkerer+%2F%2F+self-hosted+everything;open+source+%26+always+building" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=a855f7&center=true&vCenter=true&width=500&lines=native+app+builder+%2F%2F+desktop+%26+mobile;lossless+audio+enjoyer+%2F%2F+FLACidal;VJ+%26+visuals+%2F%2F+OpenDrop-VJ;homelab+tinkerer+%2F%2F+self-hosted+everything;lernt+Deutsch+%2F%2F+apprend+l%27allemand;open+source+%26+always+building" alt="Typing animation"/>
 
 <br/>
 
@@ -55,9 +56,9 @@
 │  > currently_building                            │
 │                                                  │
 │  [▶] FLACidal           — lossless desktop app  │
-│  [▶] FLACidal Mobile    — iOS/Android port      │
-│  [▶] YouFLAC Mobile     — iOS/Android port      │
+│  [▶] YouFLAC            — 4K + lossless → MKV   │
 │  [▶] OpenDrop-VJ        — SvelteKit · Electron  │
+│  [▶] geo-france         — geology map · France  │
 ╰─────────────────────────────────────────────────╯
 ```
 
@@ -365,8 +366,8 @@
 
 ```
 ┌──────────────────────────────────────────────────┐
-│  Planned obsolescence is a skill issue.          │
-│  These machines have decades left.               │
+│  Self-hosted, not outsourced.                    │
+│  If it can run locally, it does.                 │
 └──────────────────────────────────────────────────┘
 ```
 
@@ -415,12 +416,12 @@
 ║                                                    ║
 ║          Thanks for stopping by!                   ║
 ║                                                    ║
-║   "The best code is free.                          ║
-║    The second best is readable code."              ║
+║   "Readable code outlives clever code.             ║
+║    The best is the one you can hand off."          ║
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
 ```
 
-<sub>Last updated: June 2026 · Made with insomnia and mass amounts of tea</sub>
+<sub>Last updated: July 2026 · Made with insomnia and mass amounts of tea</sub>
 
 </div>

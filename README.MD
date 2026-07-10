@@ -241,7 +241,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushiemoon-dev&layout=compact&bg_color=0d1117&title_color=a855f7&text_color=9ca3af&border_color=7c3aed&langs_count=10&cache_seconds=14400" alt="Top Languages"/>
+<img src="https://top-language.kushie.dev/api/top-langs/?username=kushiemoon-dev&layout=compact&bg_color=0d1117&title_color=a855f7&text_color=9ca3af&border_color=7c3aed&langs_count=10&cache_seconds=14400" alt="Top Languages"/>
 
 <br/><br/>
 

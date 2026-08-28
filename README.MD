@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="header.svg" width="100%" alt="KUSHIE — Desktop Apps // Web // Open Source"/>
+<img src="header.svg" width="100%" alt="KUSHIE: Desktop Apps // Web // Open Source"/>
 
 </div>
 
@@ -19,7 +19,7 @@
 ```
 ┌──────────────────────────────────────────────────┐
 │                                                  │
-│  > Full-stack developer — native apps,           │
+│  > Full-stack developer, native apps,            │
 │    lossless audio tooling, self-hosted           │
 │    infra. Still runs a CRT unironically.         │
 │                                                  │
@@ -264,7 +264,7 @@
 
 ### `play_pokemon/`
 
-<sub>self-hosted, live, one shared save state for everyone who visits — click the buttons below (no keyboard), each click advances the game a few seconds</sub>
+<sub>self-hosted, live, one shared save state for everyone who visits. Click the buttons below (no keyboard); each click advances the game a few seconds</sub>
 
 <br/>
 

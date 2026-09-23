@@ -81,7 +81,7 @@
 <img src="https://img.shields.io/badge/Symfony_7-0d1117?style=flat-square&logo=symfony&logoColor=a855f7" alt="Symfony"/>
 <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=a855f7" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=a855f7" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=a855f7" alt="Prisma"/>
+<img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=a855f7" alt="SQLite"/>
 </p>
 
 </td>
@@ -92,7 +92,6 @@
 <p>
 <img src="https://img.shields.io/badge/SvelteKit-0d1117?style=flat-square&logo=svelte&logoColor=a855f7" alt="SvelteKit"/>
 <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=a855f7" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=a855f7" alt="Next.js"/>
 <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=a855f7" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=a855f7" alt="TailwindCSS"/>
 <img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=a855f7" alt="Vite"/>
@@ -105,7 +104,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/Wails-0d1117?style=flat-square&logo=go&logoColor=a855f7" alt="Wails"/>
-<img src="https://img.shields.io/badge/Tauri_2-0d1117?style=flat-square&logo=tauri&logoColor=a855f7" alt="Tauri"/>
+<img src="https://img.shields.io/badge/egui-0d1117?style=flat-square&logoColor=a855f7" alt="egui"/>
 <img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=a855f7" alt="Flutter"/>
 <img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=a855f7" alt="Dart"/>
 <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=a855f7" alt="Docker"/>
@@ -145,11 +144,11 @@
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/▶_OPENDROP--VJ-7c3aed?style=for-the-badge&logoColor=white" alt="OpenDrop-VJ"/>
-<br/><sub>Multi-deck VJ app<br/>NestDrop alt · Linux/Win/Mac</sub>
+<br/><sub>4-deck Milkdrop VJ instrument<br/>native · Linux/Win/Mac</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/SvelteKit-0d1117?style=flat-square&logo=svelte&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/Electron-0d1117?style=flat-square&logo=electron&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/Butterchurn-0d1117?style=flat-square&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/egui-0d1117?style=flat-square&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/projectM-0d1117?style=flat-square&logoColor=a855f7"/>
 <br/>
 <a href="https://github.com/kushiemoon-dev/OpenDrop-VJ"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
 &nbsp;
@@ -161,7 +160,7 @@
 <img src="https://img.shields.io/badge/🦋_CHRYSALIDE-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="Chrysalide"/>
 <br/><sub>Trans health tracker<br/>100% local · IndexedDB</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/SvelteKit-0d1117?style=flat-square&logo=svelte&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/PWA-0d1117?style=flat-square&logo=pwa&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=a855f7"/>
 <br/>
@@ -202,7 +201,7 @@
 <img src="https://img.shields.io/badge/PURIFY--TUYA-7c3aed?style=for-the-badge&logoColor=white" alt="purify-tuya"/>
 <br/><sub>Local-first PWA<br/>for Tuya dehumidifiers</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=a855f7"/>
 <br/>
 <a href="https://github.com/kushiemoon-dev/purify-tuya"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
@@ -422,6 +421,6 @@
 ╚════════════════════════════════════════════════════╝
 ```
 
-<sub>Last updated: July 2026 · Made with insomnia and mass amounts of tea</sub>
+<sub>Last updated: September 2026 · Made with insomnia and mass amounts of tea</sub>
 
 </div>

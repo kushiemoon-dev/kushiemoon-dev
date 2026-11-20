@@ -55,10 +55,10 @@
 ╭─────────────────────────────────────────────────╮
 │  > currently_building                            │
 │                                                  │
-│  [▶] FLACidal           — lossless desktop app  │
-│  [▶] YouFLAC            — 4K + lossless → MKV   │
-│  [▶] OpenDrop-VJ        — SvelteKit · Electron  │
-│  [▶] geo-france         — geology map · France  │
+│  [▶] FLACidal          : lossless desktop app   │
+│  [▶] YouFLAC           : 4K + lossless → MKV    │
+│  [▶] OpenDrop-VJ       : Rust · egui · NDI      │
+│  [▶] geo-france        : geology map · France   │
 ╰─────────────────────────────────────────────────╯
 ```
 
@@ -124,7 +124,7 @@
 <tr>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/♫_FLACIDAL-7c3aed?style=for-the-badge&logoColor=white" alt="FLACidal"/>
-<br/><sub>Tidal → FLAC lossless<br/>HI_RES 24-bit · lossless pipeline</sub>
+<br/><sub>Multi-source lossless FLAC<br/>Soulseek P2P · 24-bit</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/Wails-0d1117?style=flat-square&logo=webassembly&logoColor=a855f7"/>
@@ -144,7 +144,7 @@
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/▶_OPENDROP--VJ-7c3aed?style=for-the-badge&logoColor=white" alt="OpenDrop-VJ"/>
-<br/><sub>4-deck Milkdrop VJ instrument<br/>native · Linux/Win/Mac</sub>
+<br/><sub>4-deck Milkdrop VJ instrument<br/>NDI · MIDI · Ableton Link</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/egui-0d1117?style=flat-square&logoColor=a855f7"/>
@@ -172,7 +172,7 @@
 <img src="https://img.shields.io/badge/🎳_BC_BAYEUX-a855f7?style=for-the-badge&logoColor=white" alt="Bowling Club"/>
 <br/><sub>Club management app<br/>Events · Scores · Stats</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/Symfony_7.3-0d1117?style=flat-square&logo=symfony&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Symfony_7.4-0d1117?style=flat-square&logo=symfony&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/Chart.js-0d1117?style=flat-square&logo=chartdotjs&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=a855f7"/>
 <br/>
@@ -231,9 +231,51 @@
 <a href="https://geo-france.kushie.dev"><img src="https://img.shields.io/badge/→_Live-a855f7?style=flat-square&logo=firefox&logoColor=white"/></a>
 </td>
 </tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/QUAVER--STREAM--COMPANION-7c3aed?style=for-the-badge&logoColor=white" alt="quaver-stream-companion"/>
+<br/><sub>Live Quaver data for stream overlays<br/>Read from the game's own files</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/OBS-0d1117?style=flat-square&logo=obsstudio&logoColor=a855f7"/>
+<br/>
+<a href="https://github.com/kushiemoon-dev/quaver-stream-companion"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/CYBERPUNK--NEON-c4b5fd?style=for-the-badge&logoColor=0d1117" alt="jellyfin-cyberpunk-neon"/>
+<br/><sub>Neon CSS skin for Jellyfin<br/>No plugin required</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=a855f7"/>
+<br/>
+<a href="https://github.com/kushiemoon-dev/jellyfin-cyberpunk-neon"><img src="https://img.shields.io/badge/→_Repo-a855f7?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+<td width="33%"></td>
+</tr>
 </table></div>
 
-<sub>Public: <a href="https://github.com/kushiemoon-dev/FLACidal-Mobile">FLACidal Mobile</a> (iOS/Android port) &nbsp;·&nbsp; Also cooking (private/WIP): YouFLAC Mobile · PluralHaven &nbsp;·&nbsp; Client project (private repo): AFDS Mondeville</sub>
+<sub>Public: <a href="https://github.com/kushiemoon-dev/FLACidal-Mobile">FLACidal Mobile</a> (iOS/Android port) &nbsp;·&nbsp; <a href="https://github.com/kushiemoon-dev/shiokaze-bot">shiokaze-bot</a> (Matrix bot for a WoW realm) &nbsp;·&nbsp; Also cooking (private/WIP): YouFLAC Mobile &nbsp;·&nbsp; Client project (private repo): AFDS Mondeville</sub>
+
+<br/>
+
+## `// OPEN_SOURCE`
+
+<div align="center">
+
+<sub>merged upstream: fixes and features in projects I run myself</sub>
+
+<br/><br/>
+
+<a href="https://github.com/Sonarr/Sonarr/pulls?q=author%3Akushiemoon-dev"><img src="https://img.shields.io/badge/Sonarr-2_merged-0d1117?style=flat-square&logoColor=a855f7"/></a>
+<a href="https://github.com/Radarr/Radarr/pulls?q=author%3Akushiemoon-dev"><img src="https://img.shields.io/badge/Radarr-1_merged_·_2_open-0d1117?style=flat-square&logoColor=a855f7"/></a>
+<a href="https://github.com/Prowlarr/Prowlarr/pulls?q=author%3Akushiemoon-dev"><img src="https://img.shields.io/badge/Prowlarr-1_merged-0d1117?style=flat-square&logoColor=a855f7"/></a>
+<a href="https://github.com/crowdsecurity/crowdsec/pulls?q=author%3Akushiemoon-dev"><img src="https://img.shields.io/badge/CrowdSec-2_merged-0d1117?style=flat-square&logoColor=a855f7"/></a>
+<a href="https://github.com/louislam/uptime-kuma/pulls?q=author%3Akushiemoon-dev"><img src="https://img.shields.io/badge/Uptime_Kuma-1_merged_·_1_open-0d1117?style=flat-square&logoColor=a855f7"/></a>
+<a href="https://github.com/homarr-labs/homarr/pulls?q=author%3Akushiemoon-dev"><img src="https://img.shields.io/badge/Homarr-2_merged-0d1117?style=flat-square&logoColor=a855f7"/></a>
+<a href="https://github.com/LLukas22/Jellyswarrm/pulls?q=author%3Akushiemoon-dev"><img src="https://img.shields.io/badge/Jellyswarrm-3_merged-0d1117?style=flat-square&logoColor=a855f7"/></a>
+<a href="https://github.com/HyDE-Project/HyDE/pulls?q=author%3Akushiemoon-dev"><img src="https://img.shields.io/badge/HyDE-2_merged-0d1117?style=flat-square&logoColor=a855f7"/></a>
+<a href="https://github.com/jellyfin/jellyfin/pulls?q=author%3Akushiemoon-dev"><img src="https://img.shields.io/badge/Jellyfin-1_open-0d1117?style=flat-square&logoColor=a855f7"/></a>
+
+</div>
 
 <br/>
 
@@ -421,6 +463,6 @@
 ╚════════════════════════════════════════════════════╝
 ```
 
-<sub>Last updated: September 2026 · Made with insomnia and mass amounts of tea</sub>
+<sub>Last updated: November 2026 · Made with insomnia and mass amounts of tea</sub>
 
 </div>
